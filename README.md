@@ -1,7 +1,7 @@
 <p align="center"><a href="https://codejr.com.br/" target="_blank"><img src="https://codejr.com.br/wp-content/uploads/elementor/thumbs/Da-uma-olhada-no-design-que-eu-fiz-no-Canva-e1631206678162-pcvbl6lcx3mwo97eg0q4yn4zchcokysbd7aoauowe8.png" width="750" alt="Code"></a></p>
 
 <h1 align="center">
-    Desafio Laravel 2023.1
+    Desafio Laravel 2023.2
 </h1>
 
 ## Sobre o desafio
